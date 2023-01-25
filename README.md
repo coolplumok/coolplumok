@@ -52,6 +52,6 @@ On the other hand, I can develop and support NFT marketplace and Machine Learnin
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=coolplumok)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coolplumok)](https://github.com/coolplumok/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coolplumok&layout=compact)](https://github.com/coolplumok/github-readme-stats)
 
 
