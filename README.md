@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h3> 👋 Welcome 👋 </h3>
+  <h2> 👋 Welcome 👋 </h2>
 </div>
 
 <div align="center">
@@ -16,7 +16,7 @@ On the other hand, I can develop and support NFT marketplace and Machine Learnin
 - 🔭 I’m currently ready to work for you.
 - 🌱 I’m currently learning all new technologies.
 - 👯 I’m looking to collaborate on large scale project.
-- 🤔 I’m looking for help with my perfect skills and full experience whatever you need.
+- 🤔 I’m looking for you I can help with my perfect skills and full experience whatever you need.
 - 📫 coolplumok@gmail.com
 
 😄<b>You will be OK with me!!!</b>😄
