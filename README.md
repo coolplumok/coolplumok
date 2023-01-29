@@ -1,7 +1,5 @@
 
-<div align="center">
-  <h2> 👋 Welcome 👋 </h2>
-</div>
+<h1 align="center"> 👋 Welcome 👋 <br></h1>
 
 <div align="center">
   <img src="./api.gif" width="100%" />
@@ -11,8 +9,8 @@
 
 ### :woman_technologist: About Me :
 
-🥇10+ years of experience with Ruby on Rails, Node.js, Python Django and Flask, CodeIgniter and Laravel, Shopify, Magento and Opencart, ReactJS, AngularJS, VueJS, Bootstrap and AntDesign in all web hosting server such as AWS, Digital Ocean, Azure, Google firebase & cloud and so on.
-On the other hand, I can develop and support NFT marketplace and Machine Learning using Python and OpenAI GPT3 API.<br/>
+🥇10+ years of experience with **Ruby on Rails**, **Node.js**, **Python Django** and **Flask**, **CodeIgniter** and **Laravel**, **Shopify**, **Magento** and **Opencart**, **ReactJS**, **AngularJS**, **VueJS**, **Bootstrap** and **AntDesign** in all web hosting server such as **AWS**, **Digital Ocean**, **Azure**, **Google firebase & cloud** and so on.
+On the other hand, I can develop and support **NFT** marketplace and **Machine Learning** using **Python** and **OpenAI GPT3** API.<br/>
 - 🔭 I’m currently ready to work for you.
 - 🌱 I’m currently learning all new technologies.
 - 👯 I’m looking to collaborate on large scale project.
