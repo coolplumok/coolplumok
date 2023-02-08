@@ -1,8 +1,3 @@
-<style>
-td, th {
-   border: none!important;
-}
-</style>
 
 <h1 align="center"> 👋 You will be OK with me!!! 👋 <br></h1>
 
@@ -24,7 +19,7 @@ On the other hand, I can develop and support **NFT** marketplace and **Machine L
 <table>
   <tr>
     <td><img src="./skype.png" width="30px" /></td>
-    <td><b>coolplumok@gmail.com ( live:.cid.a59905c512ab5754 )</b></td>
+    <td>coolplumok@gmail.com / live:.cid.a59905c512ab5754</td>
   </tr>
 </table>
    
