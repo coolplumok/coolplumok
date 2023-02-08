@@ -1,11 +1,11 @@
 
-<h1 align="center"> 👋 Welcome 👋 <br></h1>
+<h1 align="center"> 👋 You will be OK with me!!! 👋 <br></h1>
 
-<div align="center">
+<!-- <div align="center">
   <img src="./api.gif" width="100%" />
-</div>
+</div> -->
 
----
+<!-- --- -->
 
 ### :woman_technologist: About Me :
 
@@ -17,7 +17,7 @@ On the other hand, I can develop and support **NFT** marketplace and **Machine L
 - 🤔 I’m looking for you I can help with my perfect skills and full experience whatever you need.
 - 📫 coolplumok@gmail.com
 - <img src="./skype.png" width="40px" /> coolplumok@gmail.com / live:.cid.a59905c512ab5754
-😄<b>You will be OK with me!!!</b>😄
+😄<b>Thanks</b>😄
 
 ---
 
