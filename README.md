@@ -16,7 +16,8 @@ On the other hand, I can develop and support **NFT** marketplace and **Machine L
 - 👯 I’m looking to collaborate on large scale project.
 - 🤔 I’m looking for you I can help with my perfect skills and full experience whatever you need.
 - 📫 coolplumok@gmail.com
-- <img src="./skype.png" width="40px" /> coolplumok@gmail.com / live:.cid.a59905c512ab5754
+- <img src="./skype.png" width="30px" style="vertical-align: middle;" /> coolplumok@gmail.com / live:.cid.a59905c512ab5754
+<br>
 😄<b>Thanks</b>😄
 
 ---
