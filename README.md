@@ -1,29 +1,11 @@
 
 <h1 align="center"> 👋 You will be OK with me!!! 👋 <br></h1>
 
-<!-- <div align="center">
-  <img src="./api.gif" width="100%" />
-</div> -->
+I am a seasoned full-stack developer with over a decade of experience in building and scaling robust web applications. My core expertise lies in backend frameworks including Ruby on Rails, Node.js, Python (Django/Flask), and PHP (Laravel/CodeIgniter), complemented by proficiency in frontend technologies like React, Angular, Vue.js, and modern UI libraries.
 
-<!-- --- -->
+My experience extends to e-commerce platforms (Shopify, Magento, OpenCart) and cloud infrastructure deployment on AWS, Azure, Google Cloud, and DigitalOcean. I also have practical knowledge in emerging domains such as NFT marketplace development and implementing AI/ML solutions using Python and the OpenAI GPT API.
 
-### :woman_technologist: About Me :
-
-🥇10+ years of experience with **Ruby on Rails**, **Node.js**, **Python Django** and **Flask**, **CodeIgniter** and **Laravel**, **Shopify App and Theme**, **Magento** and **Opencart**, **ReactJS**, **AngularJS**, **VueJS**, **Bootstrap** and **AntDesign** in all web hosting server such as **AWS**, **Digital Ocean**, **Azure**, **Google firebase & cloud** and so on.
-On the other hand, I can develop and support **NFT** marketplace and **Machine Learning** using **Python** and **OpenAI GPT** API.<br/>
-- 🔭 I’m currently ready to work for you.
-- 🌱 I’m currently learning all new technologies.
-- 👯 I’m looking to collaborate on large scale project.
-- 🤔 I’m looking for you I can help with my perfect skills and full experience whatever you need.
-<!-- <table>
-  <tr>
-    <td><img src="./skype.png" width="30px" /></td>
-    <td><b>coolplumok@gmail.com / live:.cid.a59905c512ab5754</b></td>
-  </tr>
-</table> -->
-   
-<br>
-😄<b>Thanks</b>😄
+I am actively seeking a challenging role on a large-scale project where I can contribute my technical depth and problem-solving skills. I am a continuous learner, committed to staying current with evolving technologies, and am eager to apply my full-stack expertise to help drive your project's success.
 
 ---
 
